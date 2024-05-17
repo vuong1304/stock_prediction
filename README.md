@@ -5,9 +5,8 @@
 **Nền tảng lập trình:** Jupyter Notebook
 
 **Các file nằm trong thư mục:**
-+ file ipynb: Stock Prediction Models.ipynb (file source code chính)
-+ file pdf: Report Paper.pdf (file diễn giải và trình bài kết quả nghiên cứu)
-+ file csv: microsoft_data.csv (file dữ liệu)
++ file ipynb: stockprediction.ipynb (file source code chính)
++ file csv: apple_data.csv (file dữ liệu)
 
 **Giới thiệu:**
 
